@@ -1,7 +1,7 @@
 {
     "name" : "difference_fun/output_filter",
     "description" : "difference_fun/output.filter see https://difference.fun for detailed usage",
-    "type" : "library",
+    "type" : "package",
     "keywords" : ["node", "difference", "fun", "library", "framework", "output", "filter", "difference.fun"],
     "homepage": "https://difference.fun",
     "require" : {
